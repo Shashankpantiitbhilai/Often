@@ -223,7 +223,8 @@ This project is intended for educational purposes and provided as an assignment 
 
 2. **Recommendation Algorithm**
    - Challenge: Creating meaningful recommendations based on limited parameters
-   - Solution: Implemented a scoring system based on popularity, balance of activities, and logical flow
+   - Solution: Implemented a scoring system based on popularity, balance of activities, and logical 
+   flow
 
 3. **Data Organization**
    - Challenge: Structuring day-wise itinerary data in a queryable format
