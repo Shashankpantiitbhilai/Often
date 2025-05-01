@@ -1,4 +1,6 @@
 # Travel Itinerary Management System
+Demo Video-https://drive.google.com/file/d/1wL-ZzG26YWP8dzeROlyOA1sRZuTUhoU4/view?usp=sharing
+
 
 ## Overview
 This project implements a comprehensive backend system for managing travel itineraries, particularly for the Phuket and Krabi regions in Thailand. The system includes a robust database architecture, RESTful API endpoints, and an MCP server that provides recommended itineraries based on duration.
